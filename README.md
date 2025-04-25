@@ -1,8 +1,6 @@
 ## 🧠 Quiz HackID - Hackeie Sua Mente
 
-
-![tela1 quiz hsm](https://github.com/user-attachments/assets/1de2bbc4-97e4-4dbf-b802-92cf7184118b)
-
+![Tela desktop HSM](https://github.com/user-attachments/assets/d95bc295-4396-42bc-a541-2c833d1dc353)
 
 
 Um quiz interativo e acessível que desafia os participantes a decifrarem os "códigos mentais" por trás de grandes projetos. Desenvolvido para palestra Hackeie Sua Mente.
@@ -19,6 +17,14 @@ Um quiz interativo e acessível que desafia os participantes a decifrarem os "c�
 - 🎨 Design minimalista com foco em **acessibilidade visual**  
 - 📊 Barra de progresso dinâmica  
 - 🎉 Feedback final personalizado com emojis animados  
+
+---
+
+## 📷 Screenshots
+
+![tela1 mobile HSM](https://github.com/user-attachments/assets/d9b19481-5272-4b17-95bb-5049edd65f93)
+
+![tela2 mobile HSM](https://github.com/user-attachments/assets/04959d38-e4c1-4a6b-9c11-4e84db82cdc4)
 
 ---
 
