@@ -98,7 +98,7 @@ function showFeedback() {
         actionStep.innerHTML = "Você dominou os códigos invisíveis! Que tal criar um projeto que una <em>Clareza + Narrativa</em> hoje?";
     } else {
         resultText.innerHTML = "Quase lá! 🔍";
-        actionStep.innerHTML = `Você acertou ${score}/5. Revisite as dicas e lembre-se: <em>Todo projeto começa pequeno</em>!`;
+        actionStep.innerHTML = `Você acertou ${score}/5. Revise as dicas e lembre-se: <em>Todo projeto começa pequeno</em>!`;
     }
 
     // Efeito de confetti dinâmico
