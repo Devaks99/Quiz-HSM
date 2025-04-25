@@ -5,7 +5,7 @@
 
 
 
-Um quiz interativo e acessível que desafia os participantes a decifrarem os "códigos mentais" por trás de grandes projetos. Desenvolvido para palestras, workshops ou estudo individual.
+Um quiz interativo e acessível que desafia os participantes a decifrarem os "códigos mentais" por trás de grandes projetos. Desenvolvido para palestra Hackeie Sua Mente.
 
 🔗 **Acesse online:** [https://Devaks99.github.io/Quiz-HSM](https://Devaks99.github.io/Quiz-HSM)
 
