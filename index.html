@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/hsm.ico" type="image/x-icon">
+    <title>Quiz HSM</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <h1>HackID - Hackeie Sua Mente</h1>
+    </header>
+
+    <main class="quiz-wrapper">
+        <div class="quiz-container">
+            <div class="progress-bar">
+                <div class="progress" style="width: 20%"></div>
+            </div>
+            <div class="question" id="question"></div>
+            <div class="options" id="options"></div>
+            <div class="feedback" id="feedback">
+                <div class="confetti">🎉</div>
+                <h2 id="result-text"></h2>
+                <p id="action-step"></p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2025 HSM. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
